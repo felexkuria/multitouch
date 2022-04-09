@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841937577654",
+    "project_id": "meme-65e68",
+    "storage_bucket": "meme-65e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841937577654:android:ef00cb95c659b1fd156817",
+        "android_client_info": {
+          "package_name": "com.felexkuria.memez_kenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841937577654-jcafju5f36vcs6ud9643liuhmb2h5cuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-B7YjFI3SIP6EUJjEYjM7tFv8oKJbpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841937577654-jcafju5f36vcs6ud9643liuhmb2h5cuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
